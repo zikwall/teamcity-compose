@@ -6,8 +6,8 @@
 
 ### Install
 
-1. `git clone https://github.com/zikwall/teamcity-compose` 
-2. `cd teamcity-compose`
+1. `git clone https://github.com/zikwall/teamcity-compose /path/test/teamcity` 
+2. `cd /path/test/teamcity`
 3. `docker-compose -f docker-compose.yml up -d`
 
 ### Visit
