@@ -9,4 +9,7 @@
 1. `git clone https://github.com/zikwall/teamcity-compose` 
 2. `cd teamcity-compose`
 3. `docker-compose -f docker-compose.yml up -d`
-4. Visit <your_ip>:8111
+
+### Visit
+
+1. locahhost:8111
